@@ -1,3 +1,5 @@
+//codigo da automação residencial
+
 #include <SPI.h>
 #include <Ethernet.h>
 String readString;

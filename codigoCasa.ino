@@ -9,7 +9,7 @@ boolean ligado_2 = true;
  
 //Informacoes de endereco IP, gateway, mascara de rede
 //
-//
+//kji
 //
 //
 byte mac[] = { 0xA4, 0x28, 0x72, 0xCA, 0x55, 0x2F };

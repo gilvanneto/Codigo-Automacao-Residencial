@@ -99,8 +99,6 @@ void loop()
           client.println("<title>Casa de George</title>");
           client.println("<meta http-equiv='Content-Type' content='text/html; charset=ISO-8859-1'>");
           client.println("<meta name='viewport' content='width=720, initial-scale=0.5' />");
-          client.println("<link rel='stylesheet' type='text/css' href='http://img.filipeflop.com/files/download/automacao/automacao_residencial.css' />");
-          client.println("<script type='text/javascript' src='http://img.filipeflop.com/files/download/automacao/automacao_residencial.js'></script>");
           client.println("</head>");
           client.println("<body>");
           client.println("<div id='wrapper'><img alt='--' src='https://3.bp.blogspot.com/-IKcEGQmdv6M/WdPw8m03-WI/AAAAAAAAACs/WBPQKLN_LJEbD8j9Bh23sGRlTjrkzq9sACLcBGAs/s1600/logotipo.png'/><br/>");
